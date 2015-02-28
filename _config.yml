@@ -1,0 +1,4 @@
+name: Among The Believers
+highlighter: pygments
+redcloth:
+  hard_breaks: false
